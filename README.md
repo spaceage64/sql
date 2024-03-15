@@ -1,2 +1,2 @@
-# sql
-Handy SQL code to efficiently transform data
+# Microsoft SQL Server
+Handy SQL code to efficiently transform data.
